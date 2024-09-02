@@ -3,10 +3,12 @@
 A proof-of-concept / demo for the `nba_api`
 
 # To create the environment from scratch
+```
 conda create -n nba python=3.12
 conda activate nba
 conda install pandas
 pip install nba_api
+```
 
 Then run
 ```
